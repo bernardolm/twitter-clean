@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClean", "TwitterClean\TwitterClean.csproj", "{3DC56815-84E1-4B5C-AD0F-C7C5973EB57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC56815-84E1-4B5C-AD0F-C7C5973EB57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC56815-84E1-4B5C-AD0F-C7C5973EB57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC56815-84E1-4B5C-AD0F-C7C5973EB57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC56815-84E1-4B5C-AD0F-C7C5973EB57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
